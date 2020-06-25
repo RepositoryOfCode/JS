@@ -1,0 +1,390 @@
+INFO	2020-06-04 13:09:41,303	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:09:41,865	562	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:09:41,865	562	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:09:41,869	566	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:09:41,870	567	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:09:41,872	569	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:09:50,086	8783	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:09:51,458	10155	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:09:53,710	12407	JuiceShop.Step_Defenitions.XSS_Steps	[main]	put XSS in search field
+INFO	2020-06-04 13:09:56,231	14928	JuiceShop.Step_Defenitions.XSS_Steps	[main]	switch to xss frame
+INFO	2020-06-04 13:10:00,255	18952	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Check XSS located in DOM
+INFO	2020-06-04 13:10:03,318	22015	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:10:03,318	22015	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:10:03,318	22015	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:10:04,674	23371	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:10:05,037	23734	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:10:05,037	23734	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:10:05,037	23734	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:10:05,037	23734	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:10:05,037	23734	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:10:08,917	27614	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:10:10,173	28870	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:10:12,435	31132	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Open login page
+INFO	2020-06-04 13:10:15,080	33777	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Enter Username
+INFO	2020-06-04 13:10:16,172	34869	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Enter password
+INFO	2020-06-04 13:10:18,660	37357	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Click on dropdown
+INFO	2020-06-04 13:10:19,962	38659	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Click on Complain page
+INFO	2020-06-04 13:10:21,444	40141	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Upload file
+INFO	2020-06-04 13:10:22,523	41220	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Click on submit button
+INFO	2020-06-04 13:10:22,765	41462	JuiceShop.Step_Defenitions.Upload_Unrestricted_File_Steps	[main]	Check confirmation message
+INFO	2020-06-04 13:10:25,793	44490	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:10:25,793	44490	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:10:25,793	44490	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:10:27,206	45903	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:10:27,581	46278	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:10:27,581	46278	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:10:27,581	46278	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:10:27,582	46279	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:10:27,582	46279	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:10:31,529	50226	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:10:32,883	51580	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:10:35,153	53850	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Open Login page
+INFO	2020-06-04 13:10:37,803	56500	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Click on Not yet customer
+INFO	2020-06-04 13:10:40,381	59078	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Enter email
+INFO	2020-06-04 13:10:42,515	61212	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Enter password
+INFO	2020-06-04 13:10:44,571	63268	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Confirm password
+INFO	2020-06-04 13:10:44,663	63360	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Enter security questions
+INFO	2020-06-04 13:10:47,188	65885	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Enter answer
+INFO	2020-06-04 13:10:49,249	67946	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	changing password field
+INFO	2020-06-04 13:10:53,304	72001	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Click on registration
+INFO	2020-06-04 13:10:55,587	74284	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Check that registration wa successfully.
+INFO	2020-06-04 13:10:58,661	77358	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:10:58,661	77358	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:10:58,661	77358	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:11:00,082	78779	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:11:00,432	79129	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:11:00,432	79129	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:11:00,432	79129	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:11:00,432	79129	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:11:00,432	79129	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:11:04,325	83022	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:11:05,646	84343	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:11:07,895	86592	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Open Login page
+INFO	2020-06-04 13:11:10,535	89232	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Write Sql injection and password
+INFO	2020-06-04 13:11:14,694	93391	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Click Login
+INFO	2020-06-04 13:11:17,142	95839	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Check that user profile is displayed
+INFO	2020-06-04 13:11:21,480	100177	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:11:21,480	100177	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:11:21,480	100177	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:11:22,880	101577	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:11:23,222	101919	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:11:23,222	101919	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:11:23,222	101919	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:11:23,222	101919	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:11:23,222	101919	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:11:27,130	105827	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:11:28,506	107203	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:11:30,755	109452	JuiceShop.Step_Defenitions.Give_Zero_Stars_Feedback_Steps	[main]	Open customer Feedback page
+INFO	2020-06-04 13:11:35,462	114159	JuiceShop.Step_Defenitions.Give_Zero_Stars_Feedback_Steps	[main]	Write a comment
+INFO	2020-06-04 13:11:37,526	116223	JuiceShop.Step_Defenitions.Give_Zero_Stars_Feedback_Steps	[main]	Manipulate with captcha
+INFO	2020-06-04 13:11:39,922	118619	JuiceShop.Step_Defenitions.Give_Zero_Stars_Feedback_Steps	[main]	Modify attribute in DOM and enable submit button
+INFO	2020-06-04 13:11:41,938	120635	JuiceShop.Step_Defenitions.Give_Zero_Stars_Feedback_Steps	[main]	Submit feedback
+INFO	2020-06-04 13:11:47,187	125884	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:11:47,187	125884	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:11:47,187	125884	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:11:48,564	127261	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:11:48,905	127602	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:11:48,906	127603	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:11:48,906	127603	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:11:48,906	127603	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:11:48,906	127603	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:11:52,847	131544	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:11:54,195	132892	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:11:56,442	135139	JuiceShop.Step_Defenitions.Download_Log_File_Steps	[main]	Open page with logs
+INFO	2020-06-04 13:11:56,508	135205	JuiceShop.Step_Defenitions.Download_Log_File_Steps	[main]	Download it
+INFO	2020-06-04 13:12:00,663	139360	JuiceShop.Step_Defenitions.Download_Log_File_Steps	[main]	Find that file on your HDD
+INFO	2020-06-04 13:12:01,663	140360	JuiceShop.Step_Defenitions.Download_Log_File_Steps	[main]	Read the log from the file
+INFO	2020-06-04 13:12:04,665	143362	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:12:04,665	143362	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:12:04,665	143362	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:12:06,120	144817	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:12:06,435	145132	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:12:06,436	145133	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:12:06,436	145133	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:12:06,436	145133	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:12:06,436	145133	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:12:12,401	151098	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Prepeare Gson
+INFO	2020-06-04 13:12:12,401	151098	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	To do serialize
+INFO	2020-06-04 13:12:12,404	151101	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Write java object ot JSON file
+INFO	2020-06-04 13:12:12,408	151105	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Make a POST method with that JSON file
+INFO	2020-06-04 13:12:15,220	153917	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:12:15,943	154640	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:12:20,211	158908	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Login as a created user
+INFO	2020-06-04 13:12:25,459	164156	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Open admin URL
+INFO	2020-06-04 13:12:30,516	169213	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:12:30,516	169213	JuiceShop.Step_Defenitions.Hooks	[main]	Make screenshot
+INFO	2020-06-04 13:12:31,130	169827	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:12:31,505	170202	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:12:31,505	170202	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:12:31,523	170220	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:12:31,523	170220	JuiceShop.Step_Defenitions.Hooks	[main]	Make screenshot
+INFO	2020-06-04 13:12:31,792	170489	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:12:31,792	170489	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:13:40,044	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:13:40,492	448	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:13:40,492	448	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:13:40,495	451	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:13:40,495	451	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:13:40,497	453	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:13:49,144	9100	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Prepeare Gson
+INFO	2020-06-04 13:13:49,144	9100	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	To do serialize
+INFO	2020-06-04 13:13:49,148	9104	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Write java object ot JSON file
+INFO	2020-06-04 13:13:49,154	9110	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Make a POST method with that JSON file
+INFO	2020-06-04 13:13:52,008	11964	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:13:53,229	13185	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:13:57,481	17437	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Login as a created user
+INFO	2020-06-04 13:14:02,518	22474	JuiceShop.Step_Defenitions.Create_User_WIth_Admin_Rights_Steps	[main]	Open admin URL
+INFO	2020-06-04 13:14:07,586	27542	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:14:07,586	27542	JuiceShop.Step_Defenitions.Hooks	[main]	Make screenshot
+INFO	2020-06-04 13:14:07,978	27934	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:14:07,978	27934	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-04 13:14:34,503	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-04 13:14:34,940	437	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-04 13:14:34,941	438	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-04 13:14:34,944	441	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-04 13:14:34,944	441	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-04 13:14:34,946	443	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-04 13:14:40,636	6133	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-04 13:14:41,938	7435	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-04 13:14:44,199	9696	JuiceShop.Step_Defenitions.XSS_Steps	[main]	put XSS in search field
+INFO	2020-06-04 13:14:46,680	12177	JuiceShop.Step_Defenitions.XSS_Steps	[main]	switch to xss frame
+INFO	2020-06-04 13:14:50,715	16212	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Check XSS located in DOM
+INFO	2020-06-04 13:14:53,764	19261	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Started spidering
+INFO	2020-06-04 13:14:53,764	19261	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spidering started
+INFO	2020-06-04 13:14:53,797	19294	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 0% complete.
+INFO	2020-06-04 13:14:54,801	20298	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-04 13:14:55,906	21403	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-04 13:14:56,910	22407	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-04 13:14:57,913	23410	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-04 13:14:58,918	24415	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:14:59,923	25420	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:00,932	26429	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:01,936	27433	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:02,940	28437	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:03,944	29441	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:04,951	30448	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:05,955	31452	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:06,959	32456	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:07,963	33460	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-04 13:15:08,966	34463	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 100% complete.
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/polyfills-es2015.js
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/suspicious_errors.yml
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_linux_64.url
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/legal.md
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/encrypt.pyc
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/quarantine
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_macos_64.url
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/main-es5.js
+INFO	2020-06-04 13:15:09,971	35468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/package.json.bak
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/incident-support.kdbx
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/main-es2015.js
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/vendor-es5.js
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/polyfills-es5.js
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/vendor-es2015.js
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/runtime-es2015.js
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_windows_64.exe.url
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/robots.txt
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/styles.css
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/.%5C..
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/acquisitions.md
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/coupons_2013.md.bak
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/eastere.gg
+INFO	2020-06-04 13:15:09,972	35469	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/sitemap.xml
+INFO	2020-06-04 13:15:09,973	35470	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp
+INFO	2020-06-04 13:15:09,978	35475	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/runtime-es5.js
+INFO	2020-06-04 13:15:09,978	35475	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/assets/public/favicon_js.ico
+INFO	2020-06-04 13:15:09,979	35476	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Found URL after spider: http://localhost:3000/ftp/announcement_encrypted.md
+INFO	2020-06-04 13:15:09,979	35476	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spidering ended
+INFO	2020-06-04 13:15:09,979	35476	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Ended spidering
+INFO	2020-06-04 13:15:10,941	36438	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Started scanning
+INFO	2020-06-04 13:15:10,941	36438	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scanning started
+INFO	2020-06-04 13:15:11,006	36503	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:12,010	37507	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:13,013	38510	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:14,017	39514	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:15,020	40517	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:16,025	41522	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 0% complete.
+INFO	2020-06-04 13:15:17,031	42528	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 2% complete.
+INFO	2020-06-04 13:15:18,035	43532	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 2% complete.
+INFO	2020-06-04 13:15:19,038	44535	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 2% complete.
+INFO	2020-06-04 13:15:20,042	45539	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 2% complete.
+INFO	2020-06-04 13:15:21,045	46542	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 2% complete.
+INFO	2020-06-04 13:15:22,049	47546	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 6% complete.
+INFO	2020-06-04 13:15:23,053	48550	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 6% complete.
+INFO	2020-06-04 13:15:24,058	49555	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 6% complete.
+INFO	2020-06-04 13:15:25,062	50559	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 6% complete.
+INFO	2020-06-04 13:15:26,066	51563	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 6% complete.
+INFO	2020-06-04 13:15:27,071	52568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 7% complete.
+INFO	2020-06-04 13:15:28,074	53571	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 7% complete.
+INFO	2020-06-04 13:15:29,078	54575	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 7% complete.
+INFO	2020-06-04 13:15:30,081	55578	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 7% complete.
+INFO	2020-06-04 13:15:31,085	56582	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 7% complete.
+INFO	2020-06-04 13:15:32,089	57586	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 17% complete.
+INFO	2020-06-04 13:15:33,092	58589	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 17% complete.
+INFO	2020-06-04 13:15:34,097	59594	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 17% complete.
+INFO	2020-06-04 13:15:35,103	60600	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 17% complete.
+INFO	2020-06-04 13:15:36,105	61602	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 17% complete.
+INFO	2020-06-04 13:15:37,109	62606	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 19% complete.
+INFO	2020-06-04 13:15:38,114	63611	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 19% complete.
+INFO	2020-06-04 13:15:39,117	64614	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 19% complete.
+INFO	2020-06-04 13:15:40,122	65619	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 19% complete.
+INFO	2020-06-04 13:15:41,125	66622	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 19% complete.
+INFO	2020-06-04 13:15:42,129	67626	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 22% complete.
+INFO	2020-06-04 13:15:43,132	68629	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 22% complete.
+INFO	2020-06-04 13:15:44,136	69633	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 22% complete.
+INFO	2020-06-04 13:15:45,139	70636	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 22% complete.
+INFO	2020-06-04 13:15:46,142	71639	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 22% complete.
+INFO	2020-06-04 13:15:47,147	72644	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 24% complete.
+INFO	2020-06-04 13:15:48,151	73648	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 24% complete.
+INFO	2020-06-04 13:15:49,154	74651	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 24% complete.
+INFO	2020-06-04 13:15:50,157	75654	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 24% complete.
+INFO	2020-06-04 13:15:51,161	76658	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 24% complete.
+INFO	2020-06-04 13:15:52,163	77660	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 28% complete.
+INFO	2020-06-04 13:15:53,167	78664	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 28% complete.
+INFO	2020-06-04 13:15:54,172	79669	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 28% complete.
+INFO	2020-06-04 13:15:55,177	80674	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 28% complete.
+INFO	2020-06-04 13:15:56,180	81677	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 28% complete.
+INFO	2020-06-04 13:15:57,185	82682	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 30% complete.
+INFO	2020-06-04 13:15:58,189	83686	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 30% complete.
+INFO	2020-06-04 13:15:59,192	84689	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 30% complete.
+INFO	2020-06-04 13:16:00,195	85692	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 30% complete.
+INFO	2020-06-04 13:16:01,199	86696	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 30% complete.
+INFO	2020-06-04 13:16:02,204	87701	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 33% complete.
+INFO	2020-06-04 13:16:03,208	88705	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 33% complete.
+INFO	2020-06-04 13:16:04,212	89709	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 33% complete.
+INFO	2020-06-04 13:16:05,217	90714	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 33% complete.
+INFO	2020-06-04 13:16:06,222	91719	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 33% complete.
+INFO	2020-06-04 13:16:07,226	92723	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 35% complete.
+INFO	2020-06-04 13:16:08,229	93726	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 35% complete.
+INFO	2020-06-04 13:16:09,232	94729	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 35% complete.
+INFO	2020-06-04 13:16:10,236	95733	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 35% complete.
+INFO	2020-06-04 13:16:11,239	96736	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 35% complete.
+INFO	2020-06-04 13:16:12,243	97740	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 39% complete.
+INFO	2020-06-04 13:16:13,247	98744	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 39% complete.
+INFO	2020-06-04 13:16:14,253	99750	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 39% complete.
+INFO	2020-06-04 13:16:15,257	100754	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 39% complete.
+INFO	2020-06-04 13:16:16,260	101757	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 39% complete.
+INFO	2020-06-04 13:16:17,264	102761	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 40% complete.
+INFO	2020-06-04 13:16:18,267	103764	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:19,272	104769	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:20,275	105772	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:21,278	106775	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:22,283	107780	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:23,286	108783	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 41% complete.
+INFO	2020-06-04 13:16:24,289	109786	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 42% complete.
+INFO	2020-06-04 13:16:25,292	110789	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 42% complete.
+INFO	2020-06-04 13:16:26,296	111793	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 42% complete.
+INFO	2020-06-04 13:16:27,300	112797	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 42% complete.
+INFO	2020-06-04 13:16:28,303	113800	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 42% complete.
+INFO	2020-06-04 13:16:29,306	114803	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 43% complete.
+INFO	2020-06-04 13:16:30,311	115808	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 44% complete.
+INFO	2020-06-04 13:16:31,314	116811	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 44% complete.
+INFO	2020-06-04 13:16:32,319	117816	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 44% complete.
+INFO	2020-06-04 13:16:33,322	118819	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 44% complete.
+INFO	2020-06-04 13:16:34,326	119823	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 44% complete.
+INFO	2020-06-04 13:16:35,330	120827	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 46% complete.
+INFO	2020-06-04 13:16:36,333	121830	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 46% complete.
+INFO	2020-06-04 13:16:37,335	122832	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 46% complete.
+INFO	2020-06-04 13:16:38,340	123837	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 46% complete.
+INFO	2020-06-04 13:16:39,344	124841	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 46% complete.
+INFO	2020-06-04 13:16:40,348	125845	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 48% complete.
+INFO	2020-06-04 13:16:41,353	126850	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 50% complete.
+INFO	2020-06-04 13:16:42,356	127853	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 50% complete.
+INFO	2020-06-04 13:16:43,359	128856	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 50% complete.
+INFO	2020-06-04 13:16:44,362	129859	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 50% complete.
+INFO	2020-06-04 13:16:45,366	130863	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 50% complete.
+INFO	2020-06-04 13:16:46,368	131865	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 52% complete.
+INFO	2020-06-04 13:16:47,371	132868	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 52% complete.
+INFO	2020-06-04 13:16:48,374	133871	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 52% complete.
+INFO	2020-06-04 13:16:49,377	134874	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 52% complete.
+INFO	2020-06-04 13:16:50,380	135877	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 52% complete.
+INFO	2020-06-04 13:16:51,384	136881	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 56% complete.
+INFO	2020-06-04 13:16:52,387	137884	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 56% complete.
+INFO	2020-06-04 13:16:53,391	138888	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 56% complete.
+INFO	2020-06-04 13:16:54,394	139891	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 56% complete.
+INFO	2020-06-04 13:16:55,397	140894	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 56% complete.
+INFO	2020-06-04 13:16:56,400	141897	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 57% complete.
+INFO	2020-06-04 13:16:57,406	142903	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 57% complete.
+INFO	2020-06-04 13:16:58,410	143907	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 57% complete.
+INFO	2020-06-04 13:16:59,414	144911	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 57% complete.
+INFO	2020-06-04 13:17:00,418	145915	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 57% complete.
+INFO	2020-06-04 13:17:01,422	146919	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 61% complete.
+INFO	2020-06-04 13:17:02,425	147922	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 61% complete.
+INFO	2020-06-04 13:17:03,429	148926	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 61% complete.
+INFO	2020-06-04 13:17:04,431	149928	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 61% complete.
+INFO	2020-06-04 13:17:05,436	150933	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 61% complete.
+INFO	2020-06-04 13:17:06,440	151937	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 63% complete.
+INFO	2020-06-04 13:17:07,444	152941	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 63% complete.
+INFO	2020-06-04 13:17:08,447	153944	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 63% complete.
+INFO	2020-06-04 13:17:09,450	154947	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 63% complete.
+INFO	2020-06-04 13:17:10,455	155952	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 63% complete.
+INFO	2020-06-04 13:17:11,459	156956	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 67% complete.
+INFO	2020-06-04 13:17:12,464	157961	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 67% complete.
+INFO	2020-06-04 13:17:13,468	158965	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 67% complete.
+INFO	2020-06-04 13:17:14,471	159968	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 67% complete.
+INFO	2020-06-04 13:17:15,474	160971	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 67% complete.
+INFO	2020-06-04 13:17:16,478	161975	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 68% complete.
+INFO	2020-06-04 13:17:17,482	162979	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:18,487	163984	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:19,490	164987	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:20,493	165990	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:21,497	166994	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:22,502	167999	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 69% complete.
+INFO	2020-06-04 13:17:23,505	169002	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 70% complete.
+INFO	2020-06-04 13:17:24,507	170004	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 70% complete.
+INFO	2020-06-04 13:17:25,512	171009	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 70% complete.
+INFO	2020-06-04 13:17:26,516	172013	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 70% complete.
+INFO	2020-06-04 13:17:27,520	173017	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 70% complete.
+INFO	2020-06-04 13:17:28,524	174021	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 71% complete.
+INFO	2020-06-04 13:17:29,527	175024	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 72% complete.
+INFO	2020-06-04 13:17:30,530	176027	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 72% complete.
+INFO	2020-06-04 13:17:31,534	177031	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 72% complete.
+INFO	2020-06-04 13:17:32,538	178035	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 72% complete.
+INFO	2020-06-04 13:17:33,544	179041	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 72% complete.
+INFO	2020-06-04 13:17:34,546	180043	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 74% complete.
+INFO	2020-06-04 13:17:35,550	181047	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 74% complete.
+INFO	2020-06-04 13:17:36,553	182050	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 74% complete.
+INFO	2020-06-04 13:17:37,556	183053	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 74% complete.
+INFO	2020-06-04 13:17:38,559	184056	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 74% complete.
+INFO	2020-06-04 13:17:39,562	185059	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 78% complete.
+INFO	2020-06-04 13:17:40,565	186062	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 78% complete.
+INFO	2020-06-04 13:17:41,569	187066	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 78% complete.
+INFO	2020-06-04 13:17:42,572	188069	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 78% complete.
+INFO	2020-06-04 13:17:43,576	189073	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 78% complete.
+INFO	2020-06-04 13:17:44,585	190082	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 80% complete.
+INFO	2020-06-04 13:17:45,589	191086	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 80% complete.
+INFO	2020-06-04 13:17:46,593	192090	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 80% complete.
+INFO	2020-06-04 13:17:47,596	193093	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 80% complete.
+INFO	2020-06-04 13:17:48,599	194096	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 80% complete.
+INFO	2020-06-04 13:17:49,603	195100	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 83% complete.
+INFO	2020-06-04 13:17:50,606	196103	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 83% complete.
+INFO	2020-06-04 13:17:51,611	197108	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 83% complete.
+INFO	2020-06-04 13:17:52,614	198111	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 83% complete.
+INFO	2020-06-04 13:17:53,618	199115	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 83% complete.
+INFO	2020-06-04 13:17:54,621	200118	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:17:55,623	201120	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:17:56,626	202123	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:17:57,629	203126	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:17:58,634	204131	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:17:59,638	205135	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 85% complete.
+INFO	2020-06-04 13:18:00,642	206139	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 89% complete.
+INFO	2020-06-04 13:18:01,644	207141	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 89% complete.
+INFO	2020-06-04 13:18:02,650	208147	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 89% complete.
+INFO	2020-06-04 13:18:03,654	209151	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 89% complete.
+INFO	2020-06-04 13:18:04,660	210157	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 89% complete.
+INFO	2020-06-04 13:18:05,664	211161	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 91% complete.
+INFO	2020-06-04 13:18:06,667	212164	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 91% complete.
+INFO	2020-06-04 13:18:07,671	213168	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 91% complete.
+INFO	2020-06-04 13:18:08,673	214170	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 91% complete.
+INFO	2020-06-04 13:18:09,676	215173	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 91% complete.
+INFO	2020-06-04 13:18:10,679	216176	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scan is 100% complete.
+INFO	2020-06-04 13:18:11,681	217178	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Scanning ended
+INFO	2020-06-04 13:18:11,681	217178	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Ended scanning
+INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-25 16:21:08,199	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION

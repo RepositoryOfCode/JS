@@ -21,7 +21,7 @@ public class Hooks {
     private static final String ZAP_APIKEY = null;
     Zap_Testing_Steps zapTestingSteps;
 
-    @Before()
+    @Before
     public void setUpRegression() {
         zapTestingSteps = new Zap_Testing_Steps();
         logger.info("BEFORE ANNOTATION");

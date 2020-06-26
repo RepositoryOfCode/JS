@@ -388,3 +388,632 @@ INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Step_Defenitions.Hooks	[main]	AFTE
 INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
 INFO	2020-06-04 13:18:12,085	217582	JuiceShop.Utilities.Driver	[main]	Closing driver
 INFO	2020-06-25 16:21:08,199	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-25 21:37:06,682	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-25 21:37:07,756	1074	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-25 21:37:07,757	1075	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Make screenshot
+INFO	2020-06-25 21:37:07,760	1078	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-25 21:37:07,760	1078	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-25 21:37:07,766	1084	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-25 21:37:13,046	6364	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-25 21:37:13,046	6364	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver
+INFO	2020-06-25 21:37:14,303	7621	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	BEFORE ANNOTATION
+INFO	2020-06-25 21:37:15,309	8627	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	AFTER ANNOTATION
+INFO	2020-06-25 21:37:15,309	8627	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Make screenshot
+INFO	2020-06-25 21:37:15,309	8627	JuiceShop.Utilities.Driver	[pool-1-thread-2]	driver was empty
+INFO	2020-06-25 21:37:15,309	8627	JuiceShop.Utilities.Driver	[pool-1-thread-2]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-25 21:37:15,309	8627	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Zap Firefox Driver setup
+INFO	2020-06-25 21:37:18,460	11778	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Closing Test
+INFO	2020-06-25 21:37:18,460	11778	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Closing driver
+INFO	2020-06-25 21:37:27,076	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-25 21:37:28,157	1081	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-25 21:37:28,157	1081	JuiceShop.Step_Defenitions.Hooks	[main]	Make screenshot
+INFO	2020-06-25 21:37:28,159	1083	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-25 21:37:28,159	1083	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-25 21:37:28,161	1085	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-25 21:37:32,452	5376	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-25 21:37:32,452	5376	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-25 21:42:11,721	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-25 21:42:12,355	634	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-25 21:42:12,355	634	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-25 21:42:12,361	640	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-25 21:42:12,361	640	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-25 21:42:12,365	644	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-25 21:42:19,888	8167	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-25 21:42:22,301	10580	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-25 21:42:24,595	12874	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Open Login page
+INFO	2020-06-25 21:42:27,339	15618	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Write Sql injection and password
+INFO	2020-06-25 21:42:31,588	19867	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Click Login
+INFO	2020-06-25 21:42:33,868	22147	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Check that user profile is displayed
+INFO	2020-06-25 21:42:38,344	26623	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Started spidering
+INFO	2020-06-25 21:42:38,344	26623	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spidering started
+INFO	2020-06-25 21:42:38,427	26706	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 0% complete.
+INFO	2020-06-25 21:42:39,435	27714	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-25 21:42:40,442	28721	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-25 21:42:41,448	29727	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-25 21:42:42,456	30735	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-25 21:42:43,464	31743	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 92% complete.
+INFO	2020-06-25 21:42:44,472	32751	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:45,479	33758	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:46,485	34764	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:47,493	35772	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:48,501	36780	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:49,512	37791	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:50,520	38799	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:51,526	39805	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:52,533	40812	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:53,548	41827	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 96% complete.
+INFO	2020-06-25 21:42:54,554	42833	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[main]	Spider is 100% complete.
+INFO	2020-06-25 21:43:42,939	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-25 21:43:43,701	762	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Started a new session: Scanner
+INFO	2020-06-25 21:43:43,702	763	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Created client to ZAP API
+INFO	2020-06-25 21:43:43,706	767	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-25 21:43:43,707	768	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-25 21:43:43,709	770	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-25 21:43:50,829	7890	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Open url
+INFO	2020-06-25 21:43:52,151	9212	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Close banner
+INFO	2020-06-25 21:43:54,419	11480	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[pool-1-thread-1]	Open Login page
+INFO	2020-06-25 21:43:57,155	14216	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Write Sql injection and password
+INFO	2020-06-25 21:44:01,574	18635	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Click Login
+INFO	2020-06-25 21:44:03,913	20974	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Check that user profile is displayed
+INFO	2020-06-25 21:44:08,308	25369	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Started spidering
+INFO	2020-06-25 21:44:08,308	25369	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spidering started
+INFO	2020-06-25 21:44:08,349	25410	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 25% complete.
+INFO	2020-06-25 21:44:09,361	26422	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-25 21:44:10,368	27429	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-25 21:44:11,375	28436	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-25 21:44:12,383	29444	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-25 21:44:13,391	30452	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-25 21:44:14,398	31459	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:15,404	32465	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:16,410	33471	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:17,417	34478	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:18,421	35482	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 93% complete.
+INFO	2020-06-25 21:44:19,429	36490	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:20,434	37495	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:21,440	38501	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:22,447	39508	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-25 21:44:23,451	40512	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 100% complete.
+INFO	2020-06-25 21:44:24,458	41519	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/polyfills-es2015.js
+INFO	2020-06-25 21:44:24,458	41519	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/suspicious_errors.yml
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_linux_64.url
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/legal.md
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/encrypt.pyc
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_macos_64.url
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/main-es5.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/package.json.bak
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/incident-support.kdbx
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/main-es2015.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/vendor-es5.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/polyfills-es5.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/vendor-es2015.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/runtime-es2015.js
+INFO	2020-06-25 21:44:24,459	41520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_windows_64.exe.url
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/robots.txt
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/styles.css
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/.%5C..
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/acquisitions.md
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/coupons_2013.md.bak
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/eastere.gg
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/sitemap.xml
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp
+INFO	2020-06-25 21:44:24,460	41521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/runtime-es5.js
+INFO	2020-06-25 21:44:24,461	41522	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/assets/public/favicon_js.ico
+INFO	2020-06-25 21:44:24,461	41522	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/announcement_encrypted.md
+INFO	2020-06-25 21:44:24,461	41522	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spidering ended
+INFO	2020-06-25 21:44:24,461	41522	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Ended spidering
+INFO	2020-06-25 21:44:26,158	43219	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Started scanning
+INFO	2020-06-25 21:44:26,158	43219	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scanning started
+INFO	2020-06-25 21:44:26,228	43289	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:27,236	44297	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:28,241	45302	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:29,247	46308	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:30,253	47314	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:31,260	48321	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-25 21:44:32,265	49326	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-25 21:44:33,270	50331	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-25 21:44:34,275	51336	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-25 21:44:35,280	52341	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-25 21:44:36,286	53347	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-25 21:44:37,293	54354	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-25 21:44:38,301	55362	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-25 21:44:39,310	56371	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-25 21:44:40,318	57379	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-25 21:44:41,327	58388	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-25 21:44:42,334	59395	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-25 21:44:43,342	60403	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-25 21:44:44,351	61412	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-25 21:44:45,359	62420	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-25 21:44:46,369	63430	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-25 21:44:47,375	64436	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-25 21:44:48,380	65441	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-25 21:44:49,388	66449	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-25 21:44:50,398	67459	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-25 21:44:51,401	68462	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-25 21:44:52,409	69470	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 19% complete.
+INFO	2020-06-25 21:44:53,416	70477	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 19% complete.
+INFO	2020-06-25 21:44:54,423	71484	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 19% complete.
+INFO	2020-06-25 21:44:55,431	72492	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 19% complete.
+INFO	2020-06-25 21:44:56,440	73501	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 19% complete.
+INFO	2020-06-25 21:44:57,450	74511	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-25 21:44:58,457	75518	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-25 21:44:59,463	76524	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-25 21:45:00,468	77529	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-25 21:45:01,473	78534	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-25 21:45:02,481	79542	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-25 21:45:03,490	80551	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-25 21:45:04,499	81560	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-25 21:45:05,504	82565	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-25 21:45:06,509	83570	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-25 21:45:07,513	84574	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-25 21:45:08,522	85583	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-25 21:45:09,529	86590	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-25 21:45:10,537	87598	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-25 21:45:11,546	88607	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-25 21:45:12,555	89616	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-25 21:45:13,564	90625	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-25 21:45:14,572	91633	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-25 21:45:15,577	92638	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-25 21:45:16,584	93645	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-25 21:45:17,592	94653	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-25 21:45:18,600	95661	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-25 21:45:19,604	96665	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-25 21:45:20,612	97673	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-25 21:45:21,622	98683	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-25 21:45:22,628	99689	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-25 21:45:23,636	100697	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-25 21:45:24,641	101702	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-25 21:45:25,650	102711	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-25 21:45:26,658	103719	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-25 21:45:27,666	104727	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-25 21:45:28,671	105732	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-25 21:45:29,677	106738	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-25 21:45:30,682	107743	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-25 21:45:31,687	108748	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-25 21:45:32,695	109756	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 40% complete.
+INFO	2020-06-25 21:45:33,703	110764	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:34,708	111769	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:35,717	112778	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:36,726	113787	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:37,735	114796	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:38,740	115801	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-25 21:45:39,745	116806	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-25 21:45:40,752	117813	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-25 21:45:41,756	118817	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-25 21:45:42,765	119826	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-25 21:45:43,772	120833	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-25 21:45:44,780	121841	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 43% complete.
+INFO	2020-06-25 21:45:46,007	123068	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-25 21:45:47,015	124076	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-25 21:45:48,018	125079	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-25 21:45:49,023	126084	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-25 21:45:50,029	127090	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-25 21:45:51,035	128096	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-25 21:45:52,041	129102	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-25 21:45:53,045	130106	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-25 21:45:54,052	131113	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-25 21:45:55,057	132118	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-25 21:45:56,063	133124	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-25 21:45:57,069	134130	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-25 21:45:58,075	135136	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-25 21:45:59,081	136142	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-25 21:46:00,086	137147	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-25 21:46:01,092	138153	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-25 21:46:02,097	139158	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-25 21:46:03,102	140163	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-25 21:46:04,108	141169	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-25 21:46:05,113	142174	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-25 21:46:06,118	143179	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-25 21:46:07,123	144184	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-25 21:46:08,131	145192	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-25 21:46:09,137	146198	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-25 21:46:10,141	147202	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-25 21:46:11,148	148209	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-25 21:46:12,157	149218	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-25 21:46:13,166	150227	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-25 21:46:14,176	151237	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-25 21:46:15,183	152244	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-25 21:46:16,191	153252	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-25 21:46:17,200	154261	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-25 21:46:18,207	155268	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-25 21:46:19,216	156277	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-25 21:46:20,221	157282	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-25 21:46:21,227	158288	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-25 21:46:22,235	159296	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-25 21:46:23,243	160304	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-25 21:46:24,252	161313	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-25 21:46:25,257	162318	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-25 21:46:26,266	163327	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:27,270	164331	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:28,275	165336	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:29,279	166340	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:30,286	167347	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:31,293	168354	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-25 21:46:32,298	169359	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-25 21:46:33,303	170364	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:34,312	171373	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:35,317	172378	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:36,326	173387	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:37,335	174396	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:38,340	175401	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-25 21:46:39,347	176408	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-25 21:46:40,357	177418	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-25 21:46:41,365	178426	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-25 21:46:42,368	179429	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-25 21:46:43,372	180433	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-25 21:46:44,379	181440	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:45,390	182451	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:46,398	183459	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:47,406	184467	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:48,415	185476	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:49,420	186481	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-25 21:46:50,425	187486	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-25 21:46:51,433	188494	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-25 21:46:52,440	189501	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-25 21:46:53,448	190509	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-25 21:46:54,455	191516	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-25 21:46:55,462	192523	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-25 21:46:56,467	193528	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-25 21:46:57,475	194536	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-25 21:46:58,482	195543	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-25 21:46:59,489	196550	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-25 21:47:00,494	197555	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-25 21:47:01,498	198559	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-25 21:47:02,505	199566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-25 21:47:03,513	200574	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-25 21:47:04,521	201582	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-25 21:47:05,529	202590	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-25 21:47:06,534	203595	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-25 21:47:07,540	204601	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-25 21:47:08,547	205608	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-25 21:47:09,555	206616	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-25 21:47:10,562	207623	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-25 21:47:11,568	208629	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-25 21:47:12,577	209638	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-25 21:47:13,583	210644	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-25 21:47:14,586	211647	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-25 21:47:15,596	212657	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-25 21:47:16,604	213665	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-25 21:47:17,612	214673	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-25 21:47:18,621	215682	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-25 21:47:19,628	216689	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-25 21:47:20,637	217698	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-25 21:47:21,645	218706	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-25 21:47:22,654	219715	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-25 21:47:23,663	220724	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-25 21:47:24,668	221729	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-25 21:47:25,676	222737	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 100% complete.
+INFO	2020-06-25 21:47:26,678	223739	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scanning ended
+INFO	2020-06-25 21:47:26,678	223739	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Ended scanning
+INFO	2020-06-25 21:47:27,499	224560	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-25 21:47:27,500	224561	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-25 21:47:27,500	224561	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver
+INFO	2020-06-26 11:23:34,920	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-26 11:23:36,075	1155	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-26 11:23:36,075	1155	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Make screenshot
+INFO	2020-06-26 11:23:36,114	1194	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-26 11:23:36,114	1194	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:23:36,158	1238	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-26 11:23:45,816	10896	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-26 11:23:45,816	10896	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver
+INFO	2020-06-26 11:23:47,525	12605	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	BEFORE ANNOTATION
+INFO	2020-06-26 11:23:48,534	13614	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	AFTER ANNOTATION
+INFO	2020-06-26 11:23:48,534	13614	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Make screenshot
+INFO	2020-06-26 11:23:48,534	13614	JuiceShop.Utilities.Driver	[pool-1-thread-2]	driver was empty
+INFO	2020-06-26 11:23:48,535	13615	JuiceShop.Utilities.Driver	[pool-1-thread-2]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:23:48,536	13616	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Zap Firefox Driver setup
+INFO	2020-06-26 11:23:53,019	18099	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Closing Test
+INFO	2020-06-26 11:23:53,019	18099	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Closing driver
+INFO	2020-06-26 11:27:13,765	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-26 11:27:14,918	1153	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-26 11:27:14,918	1153	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Make screenshot
+INFO	2020-06-26 11:27:14,923	1158	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-26 11:27:14,924	1159	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:27:14,927	1162	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-26 11:27:20,794	7029	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-26 11:27:20,794	7029	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver
+INFO	2020-06-26 11:27:22,811	9046	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	BEFORE ANNOTATION
+INFO	2020-06-26 11:27:23,817	10052	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	AFTER ANNOTATION
+INFO	2020-06-26 11:27:23,817	10052	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Make screenshot
+INFO	2020-06-26 11:27:23,817	10052	JuiceShop.Utilities.Driver	[pool-1-thread-2]	driver was empty
+INFO	2020-06-26 11:27:23,817	10052	JuiceShop.Utilities.Driver	[pool-1-thread-2]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:27:23,818	10053	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Zap Firefox Driver setup
+INFO	2020-06-26 11:27:28,268	14503	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Closing Test
+INFO	2020-06-26 11:27:28,268	14503	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Closing driver
+INFO	2020-06-26 11:39:02,096	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-26 11:39:03,222	1126	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-26 11:39:03,222	1126	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Make screenshot
+INFO	2020-06-26 11:39:03,227	1131	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-26 11:39:03,228	1132	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:39:03,230	1134	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-26 11:39:09,765	7669	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-26 11:39:09,767	7671	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver
+INFO	2020-06-26 11:39:11,454	9358	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	BEFORE ANNOTATION
+INFO	2020-06-26 11:39:12,462	10366	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	AFTER ANNOTATION
+INFO	2020-06-26 11:39:12,462	10366	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Make screenshot
+INFO	2020-06-26 11:39:12,462	10366	JuiceShop.Utilities.Driver	[pool-1-thread-2]	driver was empty
+INFO	2020-06-26 11:39:12,463	10367	JuiceShop.Utilities.Driver	[pool-1-thread-2]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:39:12,463	10367	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Zap Firefox Driver setup
+INFO	2020-06-26 11:39:16,907	14811	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-2]	Closing Test
+INFO	2020-06-26 11:39:16,907	14811	JuiceShop.Utilities.Driver	[pool-1-thread-2]	Closing driver
+INFO	2020-06-26 11:42:28,244	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-26 11:42:29,357	1113	JuiceShop.Step_Defenitions.Hooks	[main]	AFTER ANNOTATION
+INFO	2020-06-26 11:42:29,357	1113	JuiceShop.Step_Defenitions.Hooks	[main]	Make screenshot
+INFO	2020-06-26 11:42:29,360	1116	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-26 11:42:29,360	1116	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:42:29,362	1118	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-26 11:42:35,144	6900	JuiceShop.Step_Defenitions.Hooks	[main]	Closing Test
+INFO	2020-06-26 11:42:35,144	6900	JuiceShop.Utilities.Driver	[main]	Closing driver
+INFO	2020-06-26 11:44:11,325	0	JuiceShop.Step_Defenitions.Hooks	[main]	BEFORE ANNOTATION
+INFO	2020-06-26 11:44:12,032	707	JuiceShop.Step_Defenitions.Hooks	[main]	Started a new session: Scanner
+INFO	2020-06-26 11:44:12,032	707	JuiceShop.Step_Defenitions.Hooks	[main]	Created client to ZAP API
+INFO	2020-06-26 11:44:12,036	711	JuiceShop.Utilities.Driver	[main]	driver was empty
+INFO	2020-06-26 11:44:12,036	711	JuiceShop.Utilities.Driver	[main]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:44:12,039	714	JuiceShop.Utilities.Driver	[main]	Zap Firefox Driver setup
+INFO	2020-06-26 11:44:18,476	7151	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Open url
+INFO	2020-06-26 11:44:20,285	8960	JuiceShop.Step_Defenitions.XSS_Steps	[main]	Close banner
+INFO	2020-06-26 11:44:22,576	11251	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[main]	Open Login page
+INFO	2020-06-26 11:44:25,289	13964	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Write Sql injection and password
+INFO	2020-06-26 11:44:29,466	18141	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[main]	Click Login
+INFO	2020-06-26 11:44:51,225	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-26 11:44:51,979	754	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Started a new session: Scanner
+INFO	2020-06-26 11:44:51,979	754	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Created client to ZAP API
+INFO	2020-06-26 11:44:51,984	759	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-26 11:44:51,984	759	JuiceShop.Utilities.Driver	[pool-1-thread-1]	if browser variable was empty, assign browser thru Config reader
+INFO	2020-06-26 11:44:51,987	762	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Zap Firefox Driver setup
+INFO	2020-06-26 11:44:58,423	7198	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Open url
+INFO	2020-06-26 11:44:59,982	8757	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Close banner
+INFO	2020-06-26 11:45:02,279	11054	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[pool-1-thread-1]	Open Login page
+INFO	2020-06-26 11:45:04,975	13750	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Write Sql injection and password
+INFO	2020-06-26 11:49:05,651	0	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	BEFORE ANNOTATION
+INFO	2020-06-26 11:49:06,548	897	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Started a new session: Scanner
+INFO	2020-06-26 11:49:06,548	897	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Created client to ZAP API
+INFO	2020-06-26 11:49:06,553	902	JuiceShop.Utilities.Driver	[pool-1-thread-1]	driver was empty
+INFO	2020-06-26 11:49:06,553	902	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Classic FireFox
+INFO	2020-06-26 11:49:14,127	8476	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Open url
+INFO	2020-06-26 11:49:15,089	9438	JuiceShop.Step_Defenitions.XSS_Steps	[pool-1-thread-1]	Close banner
+INFO	2020-06-26 11:49:17,402	11751	JuiceShop.Step_Defenitions.Register_User_By_DRY_PrincipleSteps	[pool-1-thread-1]	Open Login page
+INFO	2020-06-26 11:49:20,129	14478	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Write Sql injection and password
+INFO	2020-06-26 11:49:24,273	18622	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Click Login
+INFO	2020-06-26 11:49:26,551	20900	JuiceShop.Step_Defenitions.Login_Using_SQL_Injection_Steps	[pool-1-thread-1]	Check that user profile is displayed
+INFO	2020-06-26 11:49:30,980	25329	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Started spidering
+INFO	2020-06-26 11:49:30,981	25330	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spidering started
+INFO	2020-06-26 11:49:31,066	25415	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 0% complete.
+INFO	2020-06-26 11:49:32,073	26422	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-26 11:49:33,083	27432	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-26 11:49:34,090	28439	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-26 11:49:35,098	29447	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-26 11:49:36,109	30458	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 92% complete.
+INFO	2020-06-26 11:49:37,121	31470	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:38,136	32485	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:39,143	33492	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:40,158	34507	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:41,164	35513	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:42,176	36525	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:43,181	37530	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:44,190	38539	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:45,198	39547	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:46,203	40552	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 96% complete.
+INFO	2020-06-26 11:49:47,207	41556	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spider is 100% complete.
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/polyfills-es2015.js
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/suspicious_errors.yml
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_linux_64.url
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/legal.md
+INFO	2020-06-26 11:49:48,217	42566	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/encrypt.pyc
+INFO	2020-06-26 11:49:48,218	42567	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine
+INFO	2020-06-26 11:49:48,218	42567	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_macos_64.url
+INFO	2020-06-26 11:49:48,218	42567	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/main-es5.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/package.json.bak
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/incident-support.kdbx
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/main-es2015.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/vendor-es5.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/polyfills-es5.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/vendor-es2015.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/runtime-es2015.js
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/quarantine/juicy_malware_windows_64.exe.url
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/robots.txt
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/styles.css
+INFO	2020-06-26 11:49:48,219	42568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/.%5C..
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/acquisitions.md
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/coupons_2013.md.bak
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/eastere.gg
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/sitemap.xml
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/runtime-es5.js
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/assets/public/favicon_js.ico
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Found URL after spider: http://localhost:3000/ftp/announcement_encrypted.md
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Spidering ended
+INFO	2020-06-26 11:49:48,220	42569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Ended spidering
+INFO	2020-06-26 11:49:49,739	44088	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Started scanning
+INFO	2020-06-26 11:49:49,739	44088	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scanning started
+INFO	2020-06-26 11:49:49,848	44197	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:50,854	45203	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:51,860	46209	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:52,867	47216	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:53,873	48222	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:54,877	49226	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 0% complete.
+INFO	2020-06-26 11:49:55,884	50233	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-26 11:49:56,890	51239	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-26 11:49:57,895	52244	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-26 11:49:58,900	53249	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-26 11:49:59,909	54258	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 2% complete.
+INFO	2020-06-26 11:50:00,914	55263	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-26 11:50:01,921	56270	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-26 11:50:02,930	57279	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-26 11:50:03,935	58284	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-26 11:50:04,944	59293	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 6% complete.
+INFO	2020-06-26 11:50:05,952	60301	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-26 11:50:06,962	61311	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-26 11:50:07,971	62320	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-26 11:50:08,981	63330	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-26 11:50:09,987	64336	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 7% complete.
+INFO	2020-06-26 11:50:10,997	65346	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-26 11:50:12,004	66353	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-26 11:50:13,013	67362	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-26 11:50:14,022	68371	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-26 11:50:15,028	69377	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 17% complete.
+INFO	2020-06-26 11:50:16,033	70382	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 18% complete.
+INFO	2020-06-26 11:50:17,042	71391	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 18% complete.
+INFO	2020-06-26 11:50:18,046	72395	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 18% complete.
+INFO	2020-06-26 11:50:19,054	73403	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 18% complete.
+INFO	2020-06-26 11:50:20,061	74410	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 18% complete.
+INFO	2020-06-26 11:50:21,066	75415	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-26 11:50:22,073	76422	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-26 11:50:23,082	77431	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-26 11:50:24,086	78435	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-26 11:50:25,093	79442	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 22% complete.
+INFO	2020-06-26 11:50:26,102	80451	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-26 11:50:27,110	81459	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-26 11:50:28,118	82467	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-26 11:50:29,124	83473	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-26 11:50:30,128	84477	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 24% complete.
+INFO	2020-06-26 11:50:31,131	85480	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-26 11:50:32,136	86485	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-26 11:50:33,143	87492	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-26 11:50:34,151	88500	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-26 11:50:35,155	89504	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 28% complete.
+INFO	2020-06-26 11:50:36,160	90509	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-26 11:50:37,164	91513	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-26 11:50:38,167	92516	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-26 11:50:39,171	93520	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-26 11:50:40,177	94526	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 30% complete.
+INFO	2020-06-26 11:50:41,182	95531	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-26 11:50:42,191	96540	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-26 11:50:43,195	97544	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-26 11:50:44,200	98549	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-26 11:50:45,209	99558	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 33% complete.
+INFO	2020-06-26 11:50:46,215	100564	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-26 11:50:47,222	101571	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-26 11:50:48,226	102575	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-26 11:50:49,231	103580	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-26 11:50:50,236	104585	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 35% complete.
+INFO	2020-06-26 11:50:51,241	105590	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 36% complete.
+INFO	2020-06-26 11:50:52,246	106595	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-26 11:50:53,249	107598	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-26 11:50:54,252	108601	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-26 11:50:55,259	109608	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-26 11:50:56,264	110613	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 39% complete.
+INFO	2020-06-26 11:50:57,269	111618	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 40% complete.
+INFO	2020-06-26 11:50:58,275	112624	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:50:59,280	113629	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:51:00,286	114635	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:51:01,291	115640	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:51:02,298	116647	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:51:03,301	117650	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 41% complete.
+INFO	2020-06-26 11:51:04,307	118656	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-26 11:51:05,313	119662	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-26 11:51:06,321	120670	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-26 11:51:07,332	121681	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-26 11:51:08,338	122687	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 42% complete.
+INFO	2020-06-26 11:51:09,343	123692	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:10,352	124701	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:11,357	125706	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:12,362	126711	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:13,366	127715	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:14,372	128721	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 44% complete.
+INFO	2020-06-26 11:51:15,376	129725	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-26 11:51:16,382	130731	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-26 11:51:17,386	131735	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-26 11:51:18,404	132753	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-26 11:51:19,410	133759	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 46% complete.
+INFO	2020-06-26 11:51:20,415	134764	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-26 11:51:21,419	135768	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-26 11:51:22,425	136774	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-26 11:51:23,429	137778	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-26 11:51:24,444	138793	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 50% complete.
+INFO	2020-06-26 11:51:25,450	139799	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-26 11:51:26,456	140805	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-26 11:51:27,459	141808	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-26 11:51:28,465	142814	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-26 11:51:29,471	143820	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 52% complete.
+INFO	2020-06-26 11:51:30,475	144824	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-26 11:51:31,480	145829	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-26 11:51:32,710	147059	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-26 11:51:33,717	148066	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-26 11:51:34,720	149069	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 56% complete.
+INFO	2020-06-26 11:51:35,724	150073	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-26 11:51:36,732	151081	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-26 11:51:37,740	152089	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-26 11:51:38,748	153097	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-26 11:51:39,753	154102	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 57% complete.
+INFO	2020-06-26 11:51:40,757	155106	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-26 11:51:41,763	156112	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-26 11:51:42,771	157120	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-26 11:51:43,776	158125	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-26 11:51:44,785	159134	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 61% complete.
+INFO	2020-06-26 11:51:45,789	160138	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-26 11:51:46,795	161144	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-26 11:51:47,802	162151	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-26 11:51:48,810	163159	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-26 11:51:49,816	164165	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 63% complete.
+INFO	2020-06-26 11:51:50,823	165172	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:51,829	166178	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:52,834	167183	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:53,841	168190	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:54,848	169197	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:55,856	170205	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 67% complete.
+INFO	2020-06-26 11:51:56,861	171210	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:51:57,868	172217	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:51:58,875	173224	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:51:59,881	174230	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:52:00,890	175239	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:52:01,898	176247	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 68% complete.
+INFO	2020-06-26 11:52:02,903	177252	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 69% complete.
+INFO	2020-06-26 11:52:03,911	178260	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-26 11:52:04,918	179267	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-26 11:52:05,926	180275	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-26 11:52:06,935	181284	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-26 11:52:07,942	182291	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 70% complete.
+INFO	2020-06-26 11:52:08,947	183296	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:09,955	184304	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:10,964	185313	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:11,969	186318	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:12,974	187323	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:13,981	188330	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 72% complete.
+INFO	2020-06-26 11:52:14,987	189336	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-26 11:52:15,995	190344	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-26 11:52:17,002	191351	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-26 11:52:18,009	192358	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-26 11:52:19,017	193366	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 74% complete.
+INFO	2020-06-26 11:52:20,053	194402	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-26 11:52:21,061	195410	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-26 11:52:22,068	196417	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-26 11:52:23,076	197425	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-26 11:52:24,082	198431	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 78% complete.
+INFO	2020-06-26 11:52:25,090	199439	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-26 11:52:26,095	200444	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-26 11:52:27,102	201451	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-26 11:52:28,110	202459	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 80% complete.
+INFO	2020-06-26 11:52:29,114	203463	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 82% complete.
+INFO	2020-06-26 11:52:30,119	204468	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-26 11:52:31,128	205477	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-26 11:52:32,131	206480	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-26 11:52:33,139	207488	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-26 11:52:34,144	208493	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 83% complete.
+INFO	2020-06-26 11:52:35,150	209499	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-26 11:52:36,155	210504	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-26 11:52:37,158	211507	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-26 11:52:38,162	212511	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-26 11:52:39,167	213516	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 85% complete.
+INFO	2020-06-26 11:52:40,172	214521	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-26 11:52:41,176	215525	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-26 11:52:42,181	216530	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-26 11:52:43,187	217536	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-26 11:52:44,192	218541	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 89% complete.
+INFO	2020-06-26 11:52:45,195	219544	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-26 11:52:46,199	220548	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-26 11:52:47,205	221554	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-26 11:52:48,210	222559	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-26 11:52:49,215	223564	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 91% complete.
+INFO	2020-06-26 11:52:50,219	224568	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scan is 100% complete.
+INFO	2020-06-26 11:52:51,220	225569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Scanning ended
+INFO	2020-06-26 11:52:51,220	225569	JuiceShop.Step_Defenitions.Zap_Testing_Steps	[pool-1-thread-1]	Ended scanning
+INFO	2020-06-26 11:52:51,718	226067	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	AFTER ANNOTATION
+INFO	2020-06-26 11:52:51,718	226067	JuiceShop.Step_Defenitions.Hooks	[pool-1-thread-1]	Closing Test
+INFO	2020-06-26 11:52:51,718	226067	JuiceShop.Utilities.Driver	[pool-1-thread-1]	Closing driver

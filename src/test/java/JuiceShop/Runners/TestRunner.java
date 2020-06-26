@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "JuiceShop/Step_Defenitions",
         dryRun=false,
-        tags="@Regression"
+        tags="@SQLInjection"
 )
 public class TestRunner {
 

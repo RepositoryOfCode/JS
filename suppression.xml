@@ -21,7 +21,6 @@
       <packageUrl regex="true">^pkg:javascript/jquery@.*$</packageUrl>
       <cve>CVE-2019-11358</cve>
    </suppress>
-   <?xml version="1.0" encoding="UTF-8"?>
      <suppress>
       <notes><![CDATA[
       file name: jquery-1.8.2.min.js
@@ -29,7 +28,7 @@
       <packageUrl regex="true">^pkg:javascript/jquery@.*$</packageUrl>
       <cve>CVE-2020-11022</cve>
    </suppress>
-<suppress>
+	<suppress>
       <notes><![CDATA[
       file name: jquery-1.8.2.min.js
       ]]></notes>
